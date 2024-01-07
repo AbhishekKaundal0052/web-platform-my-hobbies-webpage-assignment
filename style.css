@@ -1,0 +1,21 @@
+/* tag selector */
+body{
+  background-color: black;
+  color: red;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+  text-align: center;
+}
+/* pseudo selectors */
+img:hover{
+  border: 5px solid red;
+}
+/* class selector */
+.hobbie{
+  font-size: 20px;
+}
+/* descendant selector */
+body img{
+  border-radius: 5px;
+}
